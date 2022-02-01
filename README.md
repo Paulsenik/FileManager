@@ -9,4 +9,4 @@ A programm that can can perform a variety of actions (some at the same time) on 
 
 
 ## Build-Note
-* Import latest build of [Java-Project-Library](https://github.com/realPaulsen/Java-Project-Library) into Project before building
+* Import ***OLDER 1.0.0*** build of [Java-Project-Library](https://github.com/realPaulsen/Java-Project-Library) into Project before building

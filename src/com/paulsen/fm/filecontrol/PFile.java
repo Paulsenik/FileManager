@@ -80,7 +80,7 @@ public class PFile {
 							nPath.length() + PFile.getFileType(nPath).length());
 					nPath = nnP + "." + PFile.getFileType(nPath);
 				}
-				nPath = PFile.getParentFolder(nPath) + "\\" + PFile.getName(nPath) + addon + copyCount + '.'
+				nPath = PFile.getParentFolder(nPath) + "/" + PFile.getName(nPath) + addon + copyCount + '.'
 						+ PFile.getFileType(nPath);
 				copyCount++;
 			}
